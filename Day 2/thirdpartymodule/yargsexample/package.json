@@ -1,0 +1,15 @@
+{
+  "name": "yargsexample",
+  "version": "1.0.0",
+  "description": "yargs example",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Vijay",
+  "license": "ISC",
+  "dependencies": {
+    "lodash": "^4.17.11",
+    "yargs": "^13.2.4"
+  }
+}
